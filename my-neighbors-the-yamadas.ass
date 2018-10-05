@@ -16,9 +16,9 @@ Video File: ../../Desktop/My_Neighbors_the_Yamadas_(1999)_[1080p,BluRay,flac,x26
 Video AR Mode: 4
 Video AR Value: 1.853282
 Video Zoom Percent: 0.500000
-Scroll Position: 250
-Active Line: 253
-Video Position: 24030
+Scroll Position: 261
+Active Line: 269
+Video Position: 26519
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -286,18 +286,17 @@ Dialogue: 0,0:16:43.30,0:16:47.90,yamadas,,0,0,0,,This is Kimura Toshio. Can you
 Dialogue: 0,0:16:48.02,0:16:48.85,yamadas,,0,0,0,,Lost, huh?
 Dialogue: 0,0:16:48.85,0:16:50.92,yamadas,,0,0,0,,Not lost, just separated
 Dialogue: 0,0:16:50.92,0:16:54.72,yamadas,,0,0,0,,Oh I see
-Dialogue: 0,0:16:55.10,0:16:58.15,yamadas,,0,0,0,,Let's see. Mr. Kimura, what's your name?
+Dialogue: 0,0:16:55.10,0:16:58.07,yamadas,,0,0,0,,Let's see. Mr. Kimura, what's your first name?
 Dialogue: 0,0:16:58.12,0:16:59.35,yamadas,,0,0,0,,Toshio!
 Dialogue: 0,0:16:59.35,0:17:01.35,yamadas,,0,0,0,,Toshio, right?
 Dialogue: 0,0:17:01.35,0:17:04.90,yamadas,,0,0,0,,Ok, please wait here a moment
 Dialogue: 0,0:17:06.42,0:17:09.40,yamadas,,0,0,0,,And who are you? The older sister?
 Dialogue: 0,0:17:09.62,0:17:11.20,yamadas,,0,0,0,,Nope
-Dialogue: 0,0:17:11.20,0:17:14.90,yamadas,,0,0,0,,あたしんちは 家じゅう 迷子なんだ
+Dialogue: 0,0:17:11.20,0:17:14.12,yamadas,,0,0,0,,My whole family got lost
 Dialogue: 0,0:17:27.62,0:17:31.45,yamadas,,0,0,0,,♪ Little lost Koneko ♪
-Dialogue: 0,0:17:31.45,0:17:34.05,yamadas,,0,0,0,,♪ Where did you come -- ♪
+Dialogue: 0,0:17:31.45,0:17:33.55,yamadas,,0,0,0,,♪ Where did you come -- ♪
 Dialogue: 0,0:17:41.42,0:17:43.42,yamadas,,0,0,0,,Don't cry. We're here
-Dialogue: 0,0:18:12.30,0:18:14.45,yamadas,,0,0,0,,Whaddya mean she went with her mother?
+Dialogue: 0,0:18:12.30,0:18:14.45,yamadas,,0,0,0,,What do you mean she went with her mother?
 Dialogue: 0,0:18:14.45,0:18:16.87,yamadas,,0,0,0,,I'm her mother!
 Dialogue: 0,0:18:17.35,0:18:18.42,yamadas,,0,0,0,,Is that so?
 Dialogue: 0,0:18:18.42,0:18:21.77,yamadas,,0,0,0,,あんた　ようもウチの子を
-
