@@ -16,9 +16,9 @@ Video File: ../../Desktop/My_Neighbors_the_Yamadas_(1999)_[1080p,BluRay,flac,x26
 Video AR Mode: 4
 Video AR Value: 1.853282
 Video Zoom Percent: 0.500000
-Scroll Position: 261
-Active Line: 269
-Video Position: 26519
+Scroll Position: 164
+Active Line: 173
+Video Position: 17316
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -137,7 +137,7 @@ Dialogue: 0,0:08:48.20,0:08:49.65,yamadas,,0,0,0,,Anyway, Matsuko,
 Dialogue: 0,0:08:49.77,0:08:51.07,yamadas,,0,0,0,,Takashi,
 Dialogue: 0,0:08:51.30,0:08:54.30,yamadas,,0,0,0,,From now on, 今から　親を大事にせな あきまへんで
 Dialogue: 0,0:08:54.32,0:08:55.75,yamadas,,0,0,0,,For your information
-Dialogue: 0,0:08:55.75,0:08:57.75,yamadas,,0,0,0,,You know, this land's in my name
+Dialogue: 0,0:08:55.75,0:08:57.75,yamadas,,0,0,0,,this land's in my name
 Dialogue: 0,0:08:57.85,0:08:59.12,yamadas,,0,0,0,,With all due respect,
 Dialogue: 0,0:08:59.35,0:09:01.22,yamadas,,0,0,0,,I built this house
 Dialogue: 0,0:09:01.22,0:09:03.67,yamadas,,0,0,0,,If there was no land, you couldn't build a house
@@ -198,21 +198,21 @@ Dialogue: 0,0:11:34.97,0:11:37.07,yamadas,,0,0,0,,Hmm, maybe it was a right.
 Dialogue: 0,0:11:37.07,0:11:38.82,yamadas,,0,0,0,,Which is it?!
 Dialogue: 0,0:11:47.10,0:11:49.07,yamadas,,0,0,0,,We almost had it
 Dialogue: 0,0:11:49.07,0:11:50.47,yamadas,,0,0,0,,Our turn!
-Dialogue: 0,0:11:50.47,0:11:52.45,yamadas,,0,0,0,, The breakdown of the family
-Dialogue: 0,0:11:59.67,0:12:02.37,yamadas,,0,0,0,,Is this some kind of detour?
-Dialogue: 0,0:12:02.02,0:12:04.15,yamadas,,0,0,0,,Turn at this light
-Dialogue: 0,0:12:03.95,0:12:05.40,yamadas,,0,0,0,, No, straight! Go straight!
+Dialogue: 0,0:11:50.47,0:11:52.45,yamadas,,0,0,0,,The breakdown of the family
+Dialogue: 0,0:11:59.67,0:12:02.17,yamadas,,0,0,0,,Is this some kind of detour?
+Dialogue: 0,0:12:02.20,0:12:03.90,yamadas,,0,0,0,,Turn at this light
+Dialogue: 0,0:12:03.95,0:12:05.40,yamadas,,0,0,0,,No, straight! Go straight!
 Dialogue: 0,0:12:05.40,0:12:07.60,yamadas,,0,0,0,,It's over there. What are you talking about?
 Dialogue: 0,0:12:07.67,0:12:09.60,yamadas,,0,0,0,,Dad, we should have gone this way
 Dialogue: 0,0:12:09.52,0:12:10.52,yamadas,,0,0,0,,Shut up!
 Dialogue: 0,0:12:10.72,0:12:12.15,yamadas,,0,0,0,,???
 Dialogue: 0,0:12:13.02,0:12:15.67,yamadas,,0,0,0,,The only one who's being quiet is Nonoko
-Dialogue: 0,0:12:15.80,0:12:17.40,yamadas,,0,0,0,, Oh
-Dialogue: 0,0:12:17.60,0:12:19.40,yamadas,,0,0,0,, She's not in the car
+Dialogue: 0,0:12:15.80,0:12:17.40,yamadas,,0,0,0,,Oh
+Dialogue: 0,0:12:17.60,0:12:19.40,yamadas,,0,0,0,,She's not in the car
 Dialogue: 0,0:12:20.37,0:12:21.90,yamadas,,0,0,0,,Nonoko?
-Dialogue: 0,0:12:22.07,0:12:23.52,yamadas,,0,0,0,, Why's she not in the car?
+Dialogue: 0,0:12:22.07,0:12:23.52,yamadas,,0,0,0,,Why's she not in the car?
 Dialogue: 0,0:12:23.52,0:12:25.52,yamadas,,0,0,0,,Well anyway, stop the car!
-Dialogue: 0,0:12:30.15,0:12:32.62,yamadas,,0,0,0,, Where'd we leave her?
+Dialogue: 0,0:12:30.15,0:12:32.62,yamadas,,0,0,0,,Where'd we leave her?
 Dialogue: 0,0:12:32.62,0:12:33.95,yamadas,,0,0,0,,Noboru,
 Dialogue: 0,0:12:33.95,0:12:36.25,yamadas,,0,0,0,,Weren't you with Nonoko?
 Dialogue: 0,0:12:36.25,0:12:39.62,yamadas,,0,0,0,,Yea, with Dad while we waited on you guys.
@@ -256,13 +256,13 @@ Dialogue: 0,0:14:33.50,0:14:34.95,yamadas,,0,0,0,,She'll bite them for sure!
 Dialogue: 0,0:14:34.95,0:14:36.32,yamadas,,0,0,0,,Idiot
 Dialogue: 0,0:14:40.80,0:14:42.42,yamadas,,0,0,0,,Will you let me in?
 Dialogue: 0,0:14:42.42,0:14:44.42,yamadas,,0,0,0,,I think my daughter's been abducted
-Dialogue: 0,0:14:48.40,0:14:49.92,yamadas,,0,0,0,,  We need to call them
+Dialogue: 0,0:14:48.40,0:14:49.92,yamadas,,0,0,0,,We need to call them
 Dialogue: 0,0:14:49.92,0:14:51.92,yamadas,,0,0,0,,We should have called earlier...
 Dialogue: 0,0:14:52.62,0:14:54.25,yamadas,,0,0,0,,That's why we should have cell phones
 Dialogue: 0,0:14:54.25,0:14:56.25,yamadas,,0,0,0,,You be quiet!
 Dialogue: 0,0:14:57.90,0:15:00.92,yamadas,,0,0,0,,Poor Nonoko!
 Dialogue: 0,0:15:27.65,0:15:29.12,yamadas,,0,0,0,,Are you lost?
-Dialogue: 0,0:15:30.60,0:15:31.77,yamadas,,0,0,0,, Umm...
+Dialogue: 0,0:15:30.60,0:15:31.77,yamadas,,0,0,0,,Umm...
 Dialogue: 0,0:15:31.95,0:15:34.22,yamadas,,0,0,0,,Are you waiting on someone?
 Dialogue: 0,0:15:41.87,0:15:43.35,yamadas,,0,0,0,,Who are you waiting for?
 Dialogue: 0,0:15:45.57,0:15:47.65,yamadas,,0,0,0,,Can't you talk?
