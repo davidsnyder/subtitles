@@ -15,10 +15,10 @@ Audio File: ../../Desktop/My_Neighbors_the_Yamadas_(1999)_[1080p,BluRay,flac,x26
 Video File: ../../Desktop/My_Neighbors_the_Yamadas_(1999)_[1080p,BluRay,flac,x264]_-_THORA/My_Neighbors_the_Yamadas_(1999)_[1080p,BluRay,flac,x264]_-_THORA.mkv
 Video AR Mode: 4
 Video AR Value: 1.853282
-Video Zoom Percent: 0.250000
-Scroll Position: 294
-Active Line: 334
-Video Position: 32154
+Video Zoom Percent: 0.375000
+Scroll Position: 387
+Active Line: 409
+Video Position: 40685
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -350,7 +350,7 @@ Dialogue: 0,0:21:18.27,0:21:22.55,yamadas,,0,0,0,,I can't thank you enough!
 Dialogue: 0,0:21:22.82,0:21:26.75,yamadas,,0,0,0,,Oh no, no, we were looking all over
 Dialogue: 0,0:21:27.67,0:21:29.62,yamadas,,0,0,0,,Sorry for all the trouble
 Dialogue: 0,0:21:29.67,0:21:32.42,yamadas,,0,0,0,,Could you bring her over soon?
-Dialogue: 0,0:21:32.42,0:21:35.75,yamadas,,0,0,0,,I'll come get her
+Dialogue: 0,0:21:32.42,0:21:35.75,yamadas,,0,0,0,,No, no, we'll come get her
 Dialogue: 0,0:21:35.82,0:21:39.02,yamadas,,0,0,0,,And you even fed her dinner!
 Dialogue: 0,0:21:39.12,0:21:42.07,yamadas,,0,0,0,,That's so kind of you
 Dialogue: 0,0:21:42.07,0:21:45.37,yamadas,,0,0,0,,I don't know how to thank you...
@@ -361,4 +361,86 @@ Dialogue: 0,0:21:55.70,0:21:57.55,yamadas,,0,0,0,,Sorry, auntie
 Dialogue: 0,0:21:57.70,0:21:59.62,yamadas,,0,0,0,,It's nothing!
 Dialogue: 0,0:21:59.67,0:22:04.90,yamadas,,0,0,0,,I love to hear what's going on with the Yamada family
 Dialogue: 0,0:22:16.55,0:22:21.07,yamadas,,0,0,0,,秋の夜を　打崩したる　咄かな -- Basho
-Dialogue: 0,0:22:21.07,0:22:23.07,yamadas,,0,0,0,,
+Dialogue: 0,0:22:23.32,0:22:27.80,yamadas,,0,0,0,,Blue sky
+Dialogue: 0,0:22:27.80,0:22:31.95,yamadas,,0,0,0,,white clouds
+Dialogue: 0,0:22:31.95,0:22:34.47,yamadas,,0,0,0,,そのうち なんとか
+Dialogue: 0,0:22:34.52,0:22:38.00,yamadas,,0,0,0,,なるだろう
+Dialogue: 0,0:22:59.72,0:23:05.85,yamadas,,0,0,0,,Approaching Ichinin-mae
+Dialogue: 0,0:23:08.82,0:23:10.70,yamadas,,0,0,0,,The bus will stop at the next stop
+Dialogue: 0,0:23:13.45,0:23:16.35,yamadas,,0,0,0,,What stop was it?
+Dialogue: 0,0:23:16.85,0:23:19.92,yamadas,,0,0,0,,For now don't push the button, please.
+Dialogue: 0,0:23:22.95,0:23:24.92,yamadas,,0,0,0,,家政の天才
+Dialogue: 0,0:23:25.57,0:23:27.90,yamadas,,0,0,0,,It started raining
+Dialogue: 0,0:23:34.52,0:23:36.52,yamadas,,0,0,0,,I left the laundry out!
+Dialogue: 0,0:23:41.57,0:23:42.30,yamadas,,0,0,0,,Huh?
+Dialogue: 0,0:23:48.92,0:23:50.32,yamadas,,0,0,0,,What'd you say?
+Dialogue: 0,0:23:55.95,0:23:58.22,yamadas,,0,0,0,,Oh yeah! I brought it in already
+Dialogue: 0,0:23:58.22,0:24:00.85,yamadas,,0,0,0,,No, you forgot to hang it!
+Dialogue: 0,0:24:02.05,0:24:03.55,yamadas,,0,0,0,,I'm stepping out for a bit
+Dialogue: 0,0:24:03.72,0:24:05.40,yamadas,,0,0,0,,Need anything from the store?
+Dialogue: 0,0:24:05.57,0:24:08.32,yamadas,,0,0,0,,Ah, there was something...
+Dialogue: 0,0:24:08.67,0:24:10.67,yamadas,,0,0,0,,Oh what was it?
+Dialogue: 0,0:24:14.67,0:24:17.42,yamadas,,0,0,0,,Well, I'm going
+Dialogue: 0,0:24:19.55,0:24:23.32,yamadas,,0,0,0,,We needed...oh what was it?
+Dialogue: 0,0:24:26.85,0:24:28.55,yamadas,,0,0,0,,
+Dialogue: 0,0:24:34.77,0:24:36.42,yamadas,,0,0,0,,W-w-wait a second!
+Dialogue: 0,0:24:36.42,0:24:38.42,yamadas,,0,0,0,,What is it?
+Dialogue: 0,0:24:41.52,0:24:44.22,yamadas,,0,0,0,, It was, uh, uh...
+Dialogue: 0,0:24:44.42,0:24:46.92,yamadas,,0,0,0,,Get yourself together!
+Dialogue: 0,0:24:48.60,0:24:51.10,yamadas,,0,0,0,,Ah! White bread!
+Dialogue: 0,0:24:53.90,0:24:56.35,yamadas,,0,0,0,,As you wish!
+Dialogue: 0,0:24:56.57,0:24:58.70,yamadas,,0,0,0,,Mom! 
+Dialogue: 0,0:24:59.62,0:25:01.42,yamadas,,0,0,0,,I'll pay you back!
+Dialogue: 0,0:25:02.77,0:25:04.42,yamadas,,0,0,0,,I'm home!
+Dialogue: 0,0:25:05.82,0:25:08.62,yamadas,,0,0,0,,Huh, mom's not home?
+Dialogue: 0,0:25:10.50,0:25:11.92,yamadas,,0,0,0,,There's udon!
+Dialogue: 0,0:25:11.92,0:25:14.52,yamadas,,0,0,0,,And there's water boiling!
+Dialogue: 0,0:25:15.47,0:25:17.97,yamadas,,0,0,0,,I'll eat it before anyone notices
+Dialogue: 0,0:25:24.00,0:25:27.42,yamadas,,0,0,0,,Oh, welcome home!
+Dialogue: 0,0:25:36.20,0:25:38.27,yamadas,,0,0,0,,Were you hiding?
+Dialogue: 0,0:25:42.90,0:25:43.90,yamadas,,0,0,0,,Huh?
+Dialogue: 0,0:25:45.62,0:25:47.80,yamadas,,0,0,0,,The light is out
+Dialogue: 0,0:25:47.80,0:25:50.70,yamadas,,0,0,0,,That's no good, we'll have to change it
+Dialogue: 0,0:25:51.95,0:25:53.02,yamadas,,0,0,0,,Darnit
+Dialogue: 0,0:25:53.32,0:25:55.02,yamadas,,0,0,0,,I thought we had a spare
+Dialogue: 0,0:25:55.10,0:25:58.82,yamadas,,0,0,0,,For now, just switch it with one we rarely use
+Dialogue: 0,0:26:05.12,0:26:06.80,yamadas,,0,0,0,,Borrowing this for a bit 
+Dialogue: 0,0:26:07.25,0:26:08.22,yamadas,,0,0,0,,Ouch!
+Dialogue: 0,0:26:12.52,0:26:13.90,yamadas,,0,0,0,,Can I have some tea?
+Dialogue: 0,0:26:13.92,0:26:16.07,yamadas,,0,0,0,,Me too!
+Dialogue: 0,0:26:16.22,0:26:18.37,yamadas,,0,0,0,,I'm busy with the dishes!
+Dialogue: 0,0:26:18.37,0:26:21.00,yamadas,,0,0,0,,One of you get it!
+Dialogue: 0,0:26:23.02,0:26:25.72,yamadas,,0,0,0,,Rock, paper, scissors, shoot!
+Dialogue: 0,0:26:27.72,0:26:31.20,yamadas,,0,0,0,,Get a cup for yourself
+Dialogue: 0,0:26:36.20,0:26:39.17,yamadas,,0,0,0,,And can I get you to finish up the dishes?
+Dialogue: 0,0:26:39.30,0:26:40.97,yamadas,,0,0,0,,What??
+Dialogue: 0,0:26:41.77,0:26:43.82,yamadas,,0,0,0,,Mr. Tanaka is going to drop by
+Dialogue: 0,0:26:44.95,0:26:46.25,yamadas,,0,0,0,,What am I gonna do?!
+Dialogue: 0,0:26:49.60,0:26:52.22,yamadas,,0,0,0,,I guess we need to pick up a little
+Dialogue: 0,0:27:11.40,0:27:12.15,yamadas,,0,0,0,,What are you doing?
+Dialogue: 0,0:27:12.15,0:27:15.22,yamadas,,0,0,0,,I was cleaning up
+Dialogue: 0,0:27:18.67,0:27:19.45,yamadas,,0,0,0,,There we go
+Dialogue: 0,0:27:21.50,0:27:23.45,yamadas,,0,0,0,,我が家の夫婦道
+Dialogue: 0,0:27:27.62,0:27:30.35,yamadas,,0,0,0,,It's on the kitchen table!
+Dialogue: 0,0:27:31.72,0:27:33.47,yamadas,,0,0,0,,I don't see it
+Dialogue: 0,0:27:33.65,0:27:35.82,yamadas,,0,0,0,,Look carefully, I know I left it there
+Dialogue: 0,0:27:35.97,0:27:37.82,yamadas,,0,0,0,,It's not there
+Dialogue: 0,0:27:38.25,0:27:40.15,yamadas,,0,0,0,,Where are you looking?
+Dialogue: 0,0:27:40.15,0:27:43.52,yamadas,,0,0,0,,It's an envelope with "OKK" written on it in red
+Dialogue: 0,0:27:43.75,0:27:45.77,yamadas,,0,0,0,,Sir, is it this?
+Dialogue: 0,0:27:46.90,0:27:50.05,yamadas,,0,0,0,,No, no it's OK.
+Dialogue: 0,0:27:51.60,0:27:53.90,yamadas,,0,0,0,,If it's not there, it's not there
+Dialogue: 0,0:27:57.52,0:28:00.12,yamadas,,0,0,0,,主婦２０年　ダテじゃないね
+Dialogue: 0,0:28:00.22,0:28:01.45,yamadas,,0,0,0,,Can I see the paper?
+Dialogue: 0,0:28:01.45,0:28:03.45,yamadas,,0,0,0,,After I'm finished
+Dialogue: 0,0:28:05.30,0:28:06.90,yamadas,,0,0,0,,大したもんで
+Dialogue: 0,0:28:12.07,0:28:14.07,yamadas,,0,0,0,,Dear,
+Dialogue: 0,0:28:14.77,0:28:16.85,yamadas,,0,0,0,,While you're out, can you pick up some things?
+Dialogue: 0,0:28:16.87,0:28:17.62,yamadas,,0,0,0,,Sure thing
+Dialogue: 0,0:28:18.05,0:28:23.10,yamadas,,0,0,0,,Lettuce, cucumber, ham, light bulbs, and trash bags
+Dialogue: 0,0:28:23.27,0:28:24.70,yamadas,,0,0,0,,I'll write it down
+Dialogue: 0,0:28:24.70,0:28:27.17,yamadas,,0,0,0,,It's OK, I'll remember
+Dialogue: 0,0:28:30.22,0:28:35.85,yamadas,,0,0,0,,Lettuce, cucumber, ham...light bulbs, and trash bags, right?
+Dialogue: 0,0:28:37.05,0:28:40.47,yamadas,,0,0,0,,Did I forget something?
+Dialogue: 0,0:28:42.17,0:28:45.65,yamadas,,0,0,0,, Lettuce, cucumber...
+Dialogue: 0,0:28:45.65,0:28:47.65,yamadas,,0,0,0,,
