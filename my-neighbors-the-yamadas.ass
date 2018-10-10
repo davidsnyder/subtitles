@@ -16,9 +16,9 @@ Video File: ../../Desktop/My_Neighbors_the_Yamadas_(1999)_[1080p,BluRay,flac,x26
 Video AR Mode: 4
 Video AR Value: 1.853282
 Video Zoom Percent: 0.250000
-Scroll Position: 527
-Active Line: 543
-Video Position: 53906
+Scroll Position: 558
+Active Line: 593
+Video Position: 61594
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -581,7 +581,7 @@ Dialogue: 0,0:37:46.42,0:37:49.92,yamadas,,0,0,0,,If you told me "you can write 
 Dialogue: 0,0:37:49.92,0:37:51.92,yamadas,,0,0,0,,I'd draw a blank too
 Dialogue: 0,0:37:52.07,0:37:53.92,yamadas,,0,0,0,,That's what I'm saying.
 Dialogue: 0,0:37:55.00,0:37:56.35,yamadas,,0,0,0,,Anything, huh?
-Dialogue: 0,0:38:06.62,0:38:10.95,yamadas,,0,0,0,,What should you do? Anything?
+Dialogue: 0,0:38:06.62,0:38:10.95,yamadas,,0,0,0,,What should you do? Complete freedom?
 Dialogue: 0,0:38:15.77,0:38:17.42,yamadas,,0,0,0,,Sought after freedom
 Dialogue: 0,0:38:18.17,0:38:20.25,yamadas,,0,0,0,,The freedom of your dreams
 Dialogue: 0,0:38:20.37,0:38:23.97,yamadas,,0,0,0,,Freedom that's finally held out in front of you
@@ -589,4 +589,35 @@ Dialogue: 0,0:38:28.27,0:38:30.47,yamadas,,0,0,0,,but you don't know what to do
 Dialogue: 0,0:38:36.20,0:38:38.32,yamadas,,0,0,0,,He turned into a philosopher
 Dialogue: 0,0:38:38.65,0:38:42.07,yamadas,,0,0,0,,He's just thinking about retirement
 Dialogue: 0,0:38:42.70,0:38:44.67,yamadas,,0,0,0,,親父の背中
-Dialogue: 0,0:38:44.67,0:38:46.67,yamadas,,0,0,0,,
+Dialogue: 0,0:38:57.52,0:38:59.57,yamadas,,0,0,0,,Ah, the first snow!
+Dialogue: 0,0:39:11.77,0:39:14.50,yamadas,,0,0,0,,It's the first snow. Let's take a picture!
+Dialogue: 0,0:39:14.57,0:39:16.00,yamadas,,0,0,0,,Why?
+Dialogue: 0,0:39:16.15,0:39:17.60,yamadas,,0,0,0,,子供やあるまいし
+Dialogue: 0,0:39:18.15,0:39:20.05,yamadas,,0,0,0,,Shut the door, it's cold
+Dialogue: 0,0:39:47.32,0:39:48.85,yamadas,,0,0,0,,Where's the camera?
+Dialogue: 0,0:39:49.27,0:39:52.37,yamadas,,0,0,0,,It's in the top drawer
+Dialogue: 0,0:39:58.47,0:39:59.72,yamadas,,0,0,0,,It's not there
+Dialogue: 0,0:40:04.07,0:40:06.42,yamadas,,0,0,0,,Can you at least tell me where it is?
+Dialogue: 0,0:41:11.97,0:41:20.95,yamadas,,0,0,0,,うしろ姿の　しぐれてゆくか
+Dialogue: 0,0:41:21.02,0:41:22.97,yamadas,,0,0,0,,山田家の歳時記抄
+Dialogue: 0,0:41:26.87,0:41:29.30,yamadas,,0,0,0,,Congratulations
+Dialogue: 0,0:41:29.47,0:41:30.87,yamadas,,0,0,0,,Japanese New Year
+Dialogue: 0,0:41:34.52,0:41:35.50,yamadas,,0,0,0,,On your mark!
+Dialogue: 0,0:41:36.97,0:41:37.55,yamadas,,0,0,0,,Start!
+Dialogue: 0,0:41:37.55,0:41:39.02,yamadas,,0,0,0,,Takashi, Takashi, mom, Matsuko
+Dialogue: 0,0:41:39.05,0:41:40.97,yamadas,,0,0,0,,Nonoko, Takashi, Takashi, Noboru, mom
+Dialogue: 0,0:41:56.30,0:41:57.40,yamadas,,0,0,0,,31 seconds!
+Dialogue: 0,0:41:57.40,0:41:58.32,yamadas,,0,0,0,,A new record!
+Dialogue: 0,0:42:00.12,0:42:01.70,yamadas,,0,0,0,,How about it?
+Dialogue: 0,0:42:05.67,0:42:07.22,yamadas,,0,0,0,,The start of winter
+Dialogue: 0,0:42:13.45,0:42:14.77,yamadas,,0,0,0,,Here we go
+Dialogue: 0,0:42:14.77,0:42:16.35,yamadas,,0,0,0,,Dad, bring me the rest of the cake?
+Dialogue: 0,0:42:16.35,0:42:17.47,yamadas,,0,0,0,,Coke, please
+Dialogue: 0,0:42:17.47,0:42:18.35,yamadas,,0,0,0,, An orange, also
+Dialogue: 0,0:42:18.52,0:42:20.35,yamadas,,0,0,0,,And put some oil in the heater, please
+Dialogue: 0,0:42:23.47,0:42:26.35,yamadas,,0,0,0,,Sorry!
+Dialogue: 0,0:42:37.02,0:42:38.40,yamadas,,0,0,0,,Spring rain
+Dialogue: 0,0:42:40.22,0:42:42.22,yamadas,,0,0,0,,I'm at the station, can you bring me an umbrella?
+Dialogue: 0,0:42:42.40,0:42:45.77,yamadas,,0,0,0,,Noboru! Take dad an umbrella at the station
+Dialogue: 0,0:42:46.05,0:42:48.95,yamadas,,0,0,0,,Why? I'm studying
+Dialogue: 0,0:42:48.95,0:42:50.95,yamadas,,0,0,0,,
